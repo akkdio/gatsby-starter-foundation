@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Money",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "",
+    "siteUrl": "https://Moneymanagercard.com",
+    "image": "/assets/moneymanagercard_reflection1_72dpi.jpg",
+    "iconimage": "/assets/icon-54-.png",
+    "twitterUsername": "@moneymanagercard"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
