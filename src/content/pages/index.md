@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-H`e is a awar`d winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+A card that provides benefits beyond a simple prepaid card.
