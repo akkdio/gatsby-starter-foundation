@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Money Manager Card
 tagline: A card for good
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/02982_521-moneymanagercard_2012_flat_layout.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
