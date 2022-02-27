@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-### A card that provides benefits beyond a simple prepaid card.
+### A card that provides benefits beyond a simple prepaid card..
